@@ -11,6 +11,9 @@ header {
     color: rgb(42, 122, 228);
 
 }
+h1{
+    font-size: 31px;
+}
 
 section {
     background: rgb(116, 221, 221);
