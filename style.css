@@ -10,6 +10,13 @@ header {
     font-size: 32px;
     color: rgb(42, 122, 228);
 
+    section {
+        background: rgb(116, 221, 221);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+
 }
 h1{
     font-size: 31px;
@@ -38,6 +45,13 @@ img{
 }
 }
 .categoria {
+    section {
+        background:black;
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
     padding-left: 20px;
 padding-right: 20px;
+}
 }
