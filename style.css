@@ -15,6 +15,13 @@ h1{
     font-size: 31px;
 }
 
+section {
+    background: rgb(116, 221, 221);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
 
 
 .chamada-texto {
@@ -37,7 +44,7 @@ img{
         display: flex;
         justify-content: center;
 }
-
+}
 .categoria {
     padding-left: 20px;
 padding-right: 20px;
