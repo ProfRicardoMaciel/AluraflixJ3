@@ -10,7 +10,7 @@ header {
     font-size: 32px;
     color: rgb(42, 122, 228);
 
-    section {
+section {
         background: rgb(116, 221, 221);
         padding-bottom: 80px;
         padding-top: 80px;
@@ -36,13 +36,13 @@ img{
     gap: 10px;
 }
 .chamada {
-    section {
+   
         background: black;
         padding-bottom: 80px;
         padding-top: 80px;
         display: flex;
         justify-content: center;
-}
+
 }
 .categoria {
     section {
