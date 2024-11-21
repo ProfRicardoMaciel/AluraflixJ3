@@ -9,6 +9,7 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
+}
 
 section {
         background: rgb(116, 221, 221);
@@ -34,18 +35,4 @@ img{
     display: flex;
     overflow-x: auto;
     gap: 10px;
-}
-.chamada {
-   
-        background: black;
-        padding-bottom: 80px;
-        padding-top: 80px;
-        display: flex;
-        justify-content: center;
-
-}
-.categoria {
-   
-    padding-left: 20px;
-padding-right: 20px;
 }
